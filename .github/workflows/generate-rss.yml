@@ -1,0 +1,38 @@
+name: Generate RSS Feed
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'episodes/**'
+  workflow_dispatch:
+
+jobs:
+  generate-rss:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Generate RSS feed
+      run: |
+        python generate_rss.py
+        
+    - name: Commit RSS changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add rss.xml
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update RSS feed"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }} 

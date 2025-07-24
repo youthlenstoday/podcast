@@ -1,0 +1,73 @@
+=== FULL SCRIPT ===
+
+**HOST 1:**
+
+"Welcome to Youth Lens Today, your go-to podcast for the latest in U.S. domestic and international news, explained from a youthful, fresh and analytical perspective. Today is April 22, 2022, and we have three intriguing stories lined up for you. We're going to start with a significant development in the U.S. tech industry and its implications for antitrust laws, then we'll jet off to the Middle East to discuss the latest diplomatic developments between Iran and the United States. Lastly, we'll delve into a fascinating, somewhat offbeat topic: the rise of digital currencies in Africa. Let's dive in.
+
+**SEGMENT 1:**
+
+In U.S. domestic news this week, tech giant TeraTech made headlines, announcing a proposed merger with its rival, CyberCore. This move, potentially consolidating a significant portion of the tech industry, has drawn the attention of the Federal Trade Commission (FTC). The FTC, whose role is to promote consumer protection and prevent anti-competitive business practices, is expected to scrutinize this merger closely. If approved, it could set a precedent for future mergers in the tech industry, potentially reshaping the landscape of American technology firms. It's a reminder of the delicate balance between fostering innovation and maintaining healthy competition in the market.
+
+**Transition to Segment 2:** 
+
+Speaking of balance, let's shift our attention to international affairs, where the quest for balance is playing out in the diplomatic arena between Iran and the United States.
+
+**HOST 2:**
+
+**SEGMENT 2:**
+
+This week, Tehran and Washington resumed talks in Vienna aimed at reviving the 2015 Iran nuclear deal. This agreement, officially known as the Joint Comprehensive Plan of Action (JCPOA), was designed to limit Iran's nuclear program in exchange for relief from economic sanctions. However, since the U.S. withdrew from the agreement in 2018, tensions have escalated. The current discussions could be a pivotal step towards easing tensions and restoring the balance of power in the Middle East. However, the path to resolution is fraught with challenges, and the world watches as the balance teeters.
+
+**Transition to Segment 3:**
+
+From the power balance in diplomacy to the balance of economic power in Africa, our next story takes us to the emerging world of digital currencies on the continent.
+
+**SEGMENT 3:**
+
+In a surprising twist, Africa is rapidly becoming a hotbed for the adoption of digital currencies. In Nigeria, for instance, recent data shows an exponential increase in the use of Bitcoin and other cryptocurrencies. This trend, driven by a youthful, tech-savvy population, is changing the financial landscape in Africa. It's a move that could empower individuals and businesses by bypassing traditional banking systems and opening up new avenues for economic growth. However, it also raises questions about regulatory challenges and the potential for financial instability.
+
+**Outro:**
+
+What a journey we've had today: from the corridors of American tech giants to the diplomatic tables in Vienna, and finally to the bustling digital marketplaces of Africa. Each story, in its own way, reflects a world in flux, grappling with change, and striving for balance. As the youth of today, it's our role to stay informed, engage in these conversations, and shape the world we want to live in. 
+
+Please remember to follow Youth Lens Today wherever you get your podcasts. Until next time, keep questioning, keep learning, and keep viewing the world through a youthful lens.
+
+
+
+=== HOST 1 SCRIPT ===
+
+**HOST 1:**
+
+"Welcome to Youth Lens Today, your go-to podcast for the latest in U.S. domestic and international news, explained from a youthful, fresh and analytical perspective. Today is April 22, 2022, and we have three intriguing stories lined up for you. We're going to start with a significant development in the U.S. tech industry and its implications for antitrust laws, then we'll jet off to the Middle East to discuss the latest diplomatic developments between Iran and the United States. Lastly, we'll delve into a fascinating, somewhat offbeat topic: the rise of digital currencies in Africa. Let's dive in.
+
+**SEGMENT 1:**
+
+In U.S. domestic news this week, tech giant TeraTech made headlines, announcing a proposed merger with its rival, CyberCore. This move, potentially consolidating a significant portion of the tech industry, has drawn the attention of the Federal Trade Commission (FTC). The FTC, whose role is to promote consumer protection and prevent anti-competitive business practices, is expected to scrutinize this merger closely. If approved, it could set a precedent for future mergers in the tech industry, potentially reshaping the landscape of American technology firms. It's a reminder of the delicate balance between fostering innovation and maintaining healthy competition in the market.
+
+**Transition to Segment 2:** 
+
+Speaking of balance, let's shift our attention to international affairs, where the quest for balance is playing out in the diplomatic arena between Iran and the United States.
+
+**HOST 2:**
+
+**SEGMENT 2:**
+
+This week, Tehran and Washington resumed talks in Vienna aimed at reviving the 2015 Iran nuclear deal. This agreement, officially known as the Joint Comprehensive Plan of Action (JCPOA), was designed to limit Iran's nuclear program in exchange for relief from economic sanctions. However, since the U.S. withdrew from the agreement in 2018, tensions have escalated. The current discussions could be a pivotal step towards easing tensions and restoring the balance of power in the Middle East. However, the path to resolution is fraught with challenges, and the world watches as the balance teeters.
+
+**Transition to Segment 3:**
+
+
+=== HOST 2 SCRIPT ===
+
+From the power balance in diplomacy to the balance of economic power in Africa, our next story takes us to the emerging world of digital currencies on the continent.
+
+**SEGMENT 3:**
+
+In a surprising twist, Africa is rapidly becoming a hotbed for the adoption of digital currencies. In Nigeria, for instance, recent data shows an exponential increase in the use of Bitcoin and other cryptocurrencies. This trend, driven by a youthful, tech-savvy population, is changing the financial landscape in Africa. It's a move that could empower individuals and businesses by bypassing traditional banking systems and opening up new avenues for economic growth. However, it also raises questions about regulatory challenges and the potential for financial instability.
+
+**Outro:**
+
+What a journey we've had today: from the corridors of American tech giants to the diplomatic tables in Vienna, and finally to the bustling digital marketplaces of Africa. Each story, in its own way, reflects a world in flux, grappling with change, and striving for balance. As the youth of today, it's our role to stay informed, engage in these conversations, and shape the world we want to live in. 
+
+Please remember to follow Youth Lens Today wherever you get your podcasts. Until next time, keep questioning, keep learning, and keep viewing the world through a youthful lens.
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Youth Lens Today</title>
+        <description>A podcast exploring current events and youth perspectives</description>
+        <language>en-us</language>
+        <link>https://youthlenstoday.github.io/podcast/</link>
+        <atom:link href="https://youthlenstoday.github.io/podcast/rss.xml" rel="self" type="application/rss+xml"/>
+        <itunes:author>Nathan Goldberg, Jonah Herman</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:category text="News"/>
+        <itunes:category text="Politics"/>
+        <itunes:category text="Education"/>
+        <itunes:image href="https://youthlenstoday.github.io/podcast/cover.jpg"/>
+        <image>
+            <url>https://youthlenstoday.github.io/podcast/cover.jpg</url>
+            <title>Youth Lens Today</title>
+            <link>https://youthlenstoday.github.io/podcast/</link>
+        </image>
+        <!-- Episodes will be automatically added here when MP3 files are uploaded -->
+    </channel>
+</rss> 
