@@ -44,4 +44,5 @@ Thumbs.db
 
 # API keys (if stored separately)
 .env
-config.ini 
+config.ini
+config_local.py 
